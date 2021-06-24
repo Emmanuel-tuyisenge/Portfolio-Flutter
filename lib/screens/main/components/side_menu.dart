@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_profile/components/skills.dart';
 import 'package:flutter_profile/constants.dart';
-import 'package:flutter_svg/parser.dart';
 import 'package:flutter_svg/svg.dart';
 import 'area_ifon_text.dart';
 import 'coding.dart';
